@@ -23,11 +23,15 @@ Através de um sensor de obstáculo, que será acionado quando houver algum item
 
 Cultivo de plantas ornamentais residenciais tem se tornado muito comum, além da decoração, auxiliam na harmonização do ambiente, ajudam na redução do estresse. Essa proposta tem o objetivo de fazer o controle de dados das plantas domésticas, e a auto irrigação de flores, cactos, suculentas, plantas em geral, saber sobre a umidade, luminosidade e qual o tempo certo de irrigar.
 
+Bem similar aos sistemas de irrigações de empresas grandes, de cultivo e plantações, para autoirrigação, e o controle dessas plantações e frutas. Essa ideia é focada no uso diário doméstico, para pequenas plantas.
+
 Com a vida corrida, muitas vezes por conta do trabalho, viagens, acontence dessas plantas domesticas, não terem o cuidado necessário para florir/ter saúde.
 
 ![Visão Geral](plantas.jpg)
 
 Através da construção de um dispositivo com sensor de umidade, luminosidade e acionamento para regar a planta, quando o nivel de umidade estiver baixo/precisando da irrigação, se a iluminação que a planta está recebendo é suficiente, sabendo que algumas plantas precisam se mais sol e outras de sombra, facilitando assim o cuidado, obtendo a saúde da planta e harmonizando nossos lares.
+
+Interligado a um aplicativo simples, para exibição desses dados e sugerindo dicas para o melhor cuidado da planta.
 
 ![Visão Geral](sensorumidade.jpg)
 
