@@ -1,4 +1,9 @@
-# ExercicioIoT
+# Prática com Arduino
+Disciplina: Programação para Internet das Coisas
+
+Curso: Tecnologia em Sistemas para Internet
+
+Aluna: Fernanda Beatriz Tavares Gomes
 
 ## Proposta de Projeto 1: 
 
