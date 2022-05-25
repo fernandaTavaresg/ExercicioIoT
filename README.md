@@ -14,7 +14,7 @@ Similar a um cão-guia, e bengalas inteligentes automizadas, algumas possuem con
 
 ![Bengala com o sensor](bengalasensor.png)
 
-Através de um sensor de obstáculo/presença, que será acionado quando houver algum item no caminho, acionando assim um som avisando para a pessoa, que poderá parar ou trocar a rota, evitando possiveis acidentes, facilitando a locomoção.
+Através de um sensor de obstáculo, que será acionado quando houver algum item no caminho, acionando assim um som avisando para a pessoa, que poderá parar ou trocar a rota, evitando possiveis acidentes, facilitando a locomoção.
 
 ![Sensor de Obstaculos](sensorObstaculo.png)
 
