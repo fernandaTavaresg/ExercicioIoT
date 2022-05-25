@@ -19,7 +19,7 @@ Essa proposta tem o objetivo de fazer o gerenciamento da luminosidade de alguns 
 
 Através da construção de um dispositivo com sensor de luminosidade, enviando essas informações para uma aplicação web, que o usuário poderá acessar paras receber esses dados e dicas sobre a melhor utilização, para redução de problemas oftamológicos.
 
-![Visão Geral](sensorLumin.png)
+![Visão Geral](sensorLumin.webp)
 
 
 
