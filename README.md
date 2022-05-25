@@ -21,13 +21,13 @@ Através de um sensor de obstáculo, que será acionado quando houver algum item
 
 ## Proposta de Projeto 2:
 
-Cultivo de plantas ornamentais residenciais tem se tornado muito comum, além da decoração, auxiliam na harmonização do ambiente, ajudam na redução do estresse. Essa proposta tem o objetivo de fazer o controle de dados das plantas domésticas, e a auto irrigação de flores, cactos, suculentas, plantas em geral, saber sobre a umidade, e qual o tempo certo de irrigar.
+Cultivo de plantas ornamentais residenciais tem se tornado muito comum, além da decoração, auxiliam na harmonização do ambiente, ajudam na redução do estresse. Essa proposta tem o objetivo de fazer o controle de dados das plantas domésticas, e a auto irrigação de flores, cactos, suculentas, plantas em geral, saber sobre a umidade, luminosidade e qual o tempo certo de irrigar.
 
 Com a vida corrida, muitas vezes por conta do trabalho, viagens, acontence dessas plantas domesticas, não terem o cuidado necessário para florir/ter saúde.
 
 ![Visão Geral](plantas.jpg)
 
-Através da construção de um dispositivo com sensor de umidade e acionamento para regar a planta, quando o nivel de umidade estiver baixo/precisando da irrigação, facilitando assim o cuidado, obtendo a saúde da planta.
+Através da construção de um dispositivo com sensor de umidade, luminosidade e acionamento para regar a planta, quando o nivel de umidade estiver baixo/precisando da irrigação, se a iluminação que a planta está recebendo é suficiente, sabendo que algumas plantas precisam se mais sol e outras de sombra, facilitando assim o cuidado, obtendo a saúde da planta e harmonizando nossos lares.
 
 ![Visão Geral](sensorumidade.jpg)
 
